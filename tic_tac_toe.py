@@ -263,7 +263,7 @@ def game():
         if result(board):
             os.system('cls')
             print_board(board)
-            print('Game Over')
+            print('Game Over!')
             break
         os.system('cls')
 
